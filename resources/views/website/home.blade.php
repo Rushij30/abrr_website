@@ -3,7 +3,7 @@
         <div
             class="h-[600px] z-50   max-w-full bg-cover bg-gray-200 bg-center bg-no-repeat flex justify-center items-center  tracking-wide">
             <div class="heading text-6xl max-tablet:text-2xl font-bold container grid gap-14">
-                <h1>Precise <span class="text-blue-900"> market intelligence </span>and <span
+                <h1>Precise <span class="text-blue-900"> market intelligence ?</span>and <span
                         class="text-blue-900">advisory</span>.</h1>
                 <h3>
                     <span
